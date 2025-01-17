@@ -1,1 +1,1 @@
-# vk-og-image-generator
+# VK OG Image Generator
